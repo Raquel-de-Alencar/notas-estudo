@@ -11,3 +11,6 @@ preciso usar "" ou '' quanto é texto (quando é java)
 se tiver um numero que não esteja entre '' 
 texto = string
 juntar texto = concatenar
+criando variavel = declarando variavel
+= é atribuindo valor
+nome de variavel, arquivo ou qualquer coisa nunca colocar espaço, numero, acento ou ç
